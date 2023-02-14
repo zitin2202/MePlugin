@@ -1,0 +1,12 @@
+name: MePlugin
+version: '${project.version}'
+main: me.zitin2202.meplugin.MePlugin
+api-version: 1.19
+authors: [ zitin2202 ]
+
+
+commands:
+  sound:
+    usage: /sound <sound>
+  chaintnt:
+    usage: /chaintnt
